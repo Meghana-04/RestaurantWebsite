@@ -1,4 +1,4 @@
-![Application screenshot](./assets/screenshot.png)
+
 
 Pasta Paradise Restaurant is a simple, modern and responsive website for restaurants, made with Bootstrap.
 
@@ -15,6 +15,4 @@ Pasta Paradise Restaurant is a simple, modern and responsive website for restaur
 - Isotope
 - Animate.css
 
-# Todos
 
-- [ ] Implement back-end project for food ordering, delivery, and booking tables.
